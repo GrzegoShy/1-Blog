@@ -1,0 +1,31 @@
+*{
+    line-height: 100%;
+}
+
+body{
+    background-color: #F39494;
+}
+
+main{
+    background-color: #FFFEFE;
+}
+
+h1{
+    font-size: 36px;
+    color: #333333;
+}
+
+p{
+    font-size: 18px;
+    color: #666666;
+}
+
+button{
+    background-color: #089FE0;
+    color: #FFFFFF;
+}
+
+label{
+    font-size: 14px;
+    color: #666666;
+}
